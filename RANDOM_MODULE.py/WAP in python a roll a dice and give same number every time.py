@@ -1,8 +1,10 @@
 import random
 
-dice = [1, 2, 3, 4, 5, 6]
+dice = [1, 2, 3, 4, 5, 6
+
 print("Randomly selecting same number of a dice")
 for i in range(5):
+
 
     random.seed(12)
     print(random.choice(dice))
