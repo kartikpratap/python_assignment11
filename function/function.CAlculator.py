@@ -19,6 +19,7 @@ b=float(input("enter the second value\n"))
 if selection==1:
     print(a+b)
 elif selection==2:
+
     print(a-b)
 elif selection==3:
     print(a*b)
