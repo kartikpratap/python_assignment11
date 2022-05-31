@@ -6,6 +6,7 @@ print(b)
 
 # 9.Write a NumPy program to split the element of a given array to multiple lines.
 c=np.array(['topics,on,numpy,are,given'])
+
 d=np.char.splitlines(c)
 
 print(d)
