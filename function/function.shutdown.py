@@ -7,4 +7,5 @@ def shut_down(s):
             return "Sorry"
 s="no"
 
+
 print(shut_down(s))
