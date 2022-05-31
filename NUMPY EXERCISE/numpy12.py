@@ -3,6 +3,7 @@ import numpy as np
 a=np.array(['python','mohd'],dtype=np.str)
 b=np.array(['program','ahsan'],dtype=np.str)
 c=np.char.add(a,b)
+
 print(c)
 
 #2. Write a NumPy program to repeat all the elements three times of a given array of string.
