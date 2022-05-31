@@ -3,6 +3,7 @@ def discriminant():
     y_value = float(input('The y value: '))
     z_value = float(input('The z value: '))
 
+
     discriminant = (y_value**2) - (4*x_value*z_value)
 
     if discriminant > 0:
