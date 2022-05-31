@@ -9,6 +9,7 @@ def int(n):
 n= int(input("Please Enter any Num: "))
 
 
+
 rev = (n)
 # print("rev = %d" %rev)
 
