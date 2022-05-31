@@ -11,6 +11,7 @@ def Armstrong(n,o):
        print(n,"is not an Armstrong number")
 
 
+
 num = int(input("Enter Number: "))
 order = len(str(num))
 Armstrong(num,order)
