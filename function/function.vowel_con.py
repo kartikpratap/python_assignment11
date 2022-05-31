@@ -8,6 +8,7 @@ def value(val):
         else:
             cons=cons+1
             print(i,"the consonet is")
+
     
     print("the vowels is given below\n",vw)
 
