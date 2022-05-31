@@ -5,6 +5,7 @@ print("\nArray1:")
 print(x1)
 print("Array2:")
 print(x2)
+
 print("\nEqual test:")
 r = np.char.equal(x1, x2)
 print(r)
