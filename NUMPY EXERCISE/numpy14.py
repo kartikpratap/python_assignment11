@@ -4,6 +4,8 @@ a=np.array(['panther','python','apple','tiger','path'],dtype=str)
 b=np.char.count(a,"p")
 print(b)
 lst=[]
+
+
 lst.append(b)
 d=np.sum(lst)
 
