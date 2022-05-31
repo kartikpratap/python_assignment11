@@ -6,6 +6,7 @@ def discriminant():
 
     discriminant = (y_value**2) - (4*x_value*z_value)
 
+
     if discriminant > 0:
         print('Two Solutions. Discriminant value is:', discriminant)
     elif discriminant == 0:
