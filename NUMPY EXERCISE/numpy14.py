@@ -7,6 +7,7 @@ lst=[]
 
 
 lst.append(b)
+
 d=np.sum(lst)
 
 print("total no of p is ",d)
