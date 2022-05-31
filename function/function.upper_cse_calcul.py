@@ -7,6 +7,7 @@ def fun(S):
             n1=n1+1
         elif i.isupper():
             n2=n2+1
+
     print("the uppercase is",n2)
     print("the loweracse is",n1)
 
